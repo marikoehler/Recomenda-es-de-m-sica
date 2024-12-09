@@ -1,0 +1,16 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #050369;
+    background color: display: ;
+  }
+  
+  header {
+    background: #5786dd;
+    padding: 20px 0;
+    font-size: 50px;
+  }
+ section {
+    background: #98ccf7;
+    display: flex;
+    justify-content: center;
+ }
